@@ -46,6 +46,7 @@ nouveau.addEventListener("click", () => {
 
   citation.textContent = citations[nombreAleatoire][0];
   auteur.textContent = citations[nombreAleatoire][1];
+  dernier = nombreAleatoire;
 
   console.log(nombreAleatoire, btn);
 
