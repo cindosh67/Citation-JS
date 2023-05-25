@@ -113,4 +113,5 @@ html, body {
 
 .lightsaber {
 	position: relative;
+	transform: rotate(90deg);
 }
